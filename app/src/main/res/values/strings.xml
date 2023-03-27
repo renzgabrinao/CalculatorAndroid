@@ -2,5 +2,8 @@
     <string name="app_name">Tip Calculator</string>
     <string name="tip_calculator_heading">Calculate Tip</string>
     <string name="bill_amount">Bill Amount</string>
+    <string name="bill_amount_display">Bill Amount: %s</string>
+    <string name="tip_percentage">Tip Percentage: %s</string>
     <string name="tip_amount">Tip Amount: %s</string>
+    <string name="total_amount">Total: %s</string>
 </resources>
